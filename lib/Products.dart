@@ -1,0 +1,16 @@
+final List<Map<String, dynamic>> products = [
+  {'name': 'Ürün 1', 'price': 100.0},
+  {'name': 'Ürün 2', 'price': 150.0},
+  {'name': 'Ürün 3', 'price': 200.0},
+  {'name': 'Ürün 4', 'price': 250.0},
+  {'name': 'Ürün 5', 'price': 300.0},
+  {'name': 'Ürün 6', 'price': 350.0},
+  {'name': 'Ürün 7', 'price': 400.0},
+  {'name': 'Ürün 8', 'price': 450.0},
+  {'name': 'Ürün 9', 'price': 500.0},
+  {'name': 'Ürün 10', 'price': 550.0},
+  {'name': 'Ürün 11', 'price': 600.0},
+  {'name': 'Ürün 12', 'price': 650.0},
+  {'name': 'Ürün 13', 'price': 700.0},
+  {'name': 'Ürün 14', 'price': 750.0},
+];
